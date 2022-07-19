@@ -1,0 +1,9 @@
+{
+	"ip":"CornflowerSMP2.aternos.me",
+	"port":61863,
+	"name": "afkbot18",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (joemama) (joemama)",
+	"login-cmd":"/login (joemama)"
+}

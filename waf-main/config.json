@@ -1,0 +1,9 @@
+{
+	"ip":"ringo6969.aternos.me",
+	"port": 56871,
+	"name": "afkbot18",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (joemama) (joemama)",
+	"login-cmd":"/login (joemama)"
+}
